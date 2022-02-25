@@ -1,0 +1,2 @@
+# Java-1D-Array-Leap-Game
+ You're standing at index  of an -element array named . From some index  (where ), you can perform one of the following moves:  Move Backward: If cell  exists and contains a , you can walk back to cell . Move Forward: If cell  contains a zero, you can walk to cell . If cell  contains a zero, you can jump to cell . If you're standing in cell  or the value of , you can walk or jump off the end of the array and win the game.
